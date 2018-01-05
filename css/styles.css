@@ -1,8 +1,8 @@
 
 h1 {
-  color: blue;
-  text-align: center;
-  font-size: 110px;
+  color: white;
+  font-size: 75px;
+
 
 }
 
@@ -10,14 +10,16 @@ body {
   font-family: sans-serif;
   background-color:#ffe4e1;
   background-image: url(https://imgur.com/BWtD2MZ);
+  text-align: center;
 
 }
 
 .pic1 {
   display: block;
   margin: 0 auto;
-  height: 50%;
-  width: 50%;
+  height: 40%;
+  width: 20%;
+  border-radius: 50%;
 
 }
 
