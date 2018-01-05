@@ -2,11 +2,18 @@
 h1 {
   color: blue;
   text-align: center;
+  font-size: 110px;
+
+}
+
+body {
+  font-family: sans-serif;
+  background-color:#ffe4e1;
 
 }
 
 p {
-  font-size: 50px;
+  font-size: 75px;
 
 }
 
@@ -16,5 +23,5 @@ p {
 
 .Intro2 {
   text-align: center;
-  
+
 }
