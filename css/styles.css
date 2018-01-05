@@ -1,9 +1,16 @@
 
 h2 {
-  font-size: 75px;
+  font-size: 25px;
 
 
 }
+
+h3 {
+  font-size: 25px;
+  color: green;
+}
+
+
 
 body {
   font-family: sans-serif;
@@ -34,15 +41,7 @@ p {
 
 }
 
-.Intro2 {
-  text-align: center;
+.Intro2  li {
+  color: blue;
 
-}
-
-.header-site{
-   background: url(http://www.yoursite.com/folder/image.jpg);
-}
-
-ul {
-  font-size: 50px;
 }
