@@ -9,7 +9,14 @@ h1 {
 body {
   font-family: sans-serif;
   background-color:#ffe4e1;
+  background-image: url(https://imgur.com/BWtD2MZ);
 
+}
+
+.pic1 {
+  height: 50%;
+  width: 50%;
+  align-items: center;
 }
 
 p {
@@ -24,4 +31,8 @@ p {
 .Intro2 {
   text-align: center;
 
+}
+
+.header-site{
+   background: url(http://www.yoursite.com/folder/image.jpg);
 }
